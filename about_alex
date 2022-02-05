@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>About Alex</title>
+        <link href="css/main.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <h1>Hi, I'm Alex.</h1>
+	    <h2>She/Her</h2>
+		<h3>I'm often misconstrued as a guy on paper. This has brought on many funny real-life introductions.</h3>
+	    <h3>About Me</h3>
+		<p>I'm an avid tea-drinker, but I also enjoy the occasional coffee -- with oat milk! I used to despise coffee, but after working as a Barista for 6 years, it grew on me. I used to live in Toronto and it brought me closer to people from all walks of life, and gave me a greater understanding of culture as well as a great appreciation for those who celebrate it.
+		</p>
+		<p>I'm the oldest of my generation in my family. I've found that's put a lot of extra responsibility on my shoulders, but that also meant that I got to make a lot of the decisions growing up, and even now. I believe being the oldest also lead to my interest in video games, console and desktop, not having an older sibling to hog them all of the time really helped, too.
+		</p>
+	    <h3>Things I Enjoy:</h3>
+		<p>Music:</p>
+	<ul>
+		<li>Built To Spill</li>
+		<li>Portishead</li>
+		<li>Cyamande</li>
+		<li>Nirvana</li>
+		<li>Cigarettes After Sex</li>
+	</ul>
+		<p>Movies:</p>
+	<ul>
+		<li>Fight Club</li>
+		<li>Pulp Fiction</li>
+		<li>The Shining</li>
+		<li>The Matrix</li>
+	</ul>
+		<p>Poets:</p>
+	<ul>
+		<li>Sappho</li>
+		<li>Sylvia Plath</li>
+	</ul>
+		<p>Artists:</p>
+	<ul>
+		<li>Jean Michel Basquiat</li>
+		<li>Adrian Piper</li>
+		<li>Pablo Picasso</li>
+		<li>Damien Ortega</li>
+		<li>Vincent Van Gogh</li>
+        <li>Salvador Dali</li>
+	</ul>
+		<p>Authors:</p>
+	<ul>
+		<li>Chuck Palahnuik</li>
+		<li>Paulo Coehlo</li>
+		<li>Rohinton Mistry</li>
+	</ul>
+	<h3>Websites I frequent:</h3>
+	<ul>
+		<li><a href="https://hypem.com/sites">HypeMachine</a></li>
+		<li><a href="https://imgur.com/">Imgur</a></li>
+		<li><a href="https://www.apartmenttherapy.com/">Apartment Therapy</a></li>
+		<li><a href="https://www.mentalfloss.com/">Mental Floss</a></li>
+		<li><a href="https://archive.org/web/">WaybackMachine</a></li>
+    </body>
+
+</html>
